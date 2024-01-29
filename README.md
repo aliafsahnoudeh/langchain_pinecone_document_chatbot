@@ -85,6 +85,8 @@ langchain_pinecone_document_chatbot_PORT="8000"
 langchain_pinecone_document_chatbot_ENVIRONMENT="dev"
 ```
 
+For using Pinecone, you need to add LANGCHAIN_PINECONE_DOCUMENT_CHATBOT_PINECONE_API_KEY to your .env file.
+
 You can read more about BaseSettings class here: https://pydantic-docs.helpmanual.io/usage/settings/
 
 ## Pre-commit
